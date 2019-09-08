@@ -9,8 +9,7 @@
         Besede in življenje
       </h1>
       <h2 class="subtitle is-size-5">
-        <br><em>"Knjige so sanje, ki jih držimo v rokah."</em> <small>(N. Gaiman)</small></br>
-        <br><em>"Sanje pa iz ljudi delajo to, kar so: delajo jih velike."</em> <small>(Alessandro D'Avenia)</small></br>
+        <br><em>"Nekatere besede so kot školjke, preproste, a s celim morjem v sebi."</em> <small>(Alessandro D'Avenia)</small></br>
       </h2>
     </div>
   </div>
