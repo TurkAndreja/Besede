@@ -1,0 +1,540 @@
+{
+    "besedila": [
+        {
+            "besedilo": "Vse življenje si odgovoren za tisto, kar si udomaèil.",
+            "avtor": [
+                "Antoine de Saint-Exupéry"
+            ],
+            "tema": [
+                "življenje",
+                "ljubezen",
+                "odgovornost"
+            ],
+            "kljucne_besede": [
+                "življenje",
+                "odgovornost",
+                "udomaèiti"
+            ],
+            "knjiga": {
+                "naslov": "Mali Princ",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Skrivnost sreèe ni v tem, da vedno delamo, kar hoèemo, ampak v tem, da vedno hoèemo, kar delamo.",
+            "avtor": [
+                "Tolstoj"
+            ],
+            "tema": [
+                "življenje"
+            ],
+            "kljucne_besede": [
+                "sreèa",
+                "skrivnost",
+                "hoteti"
+            ],
+            "knjiga": {
+                "naslov": null,
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "To je moja skrivnost. Povsem preprosta je: kdor hoèe videti, mora gledati s srcem. Bistvo je oèem nevidno.",
+            "avtor": [
+                "Antoine de Saint-Exupéry"
+            ],
+            "tema": [
+                "življenje",
+                "ljubezen",
+                "bistvo"
+            ],
+            "kljucne_besede": [
+                "bistvo",
+                "gledati",
+                "srce"
+            ],
+            "knjiga": {
+                "naslov": "Mali Princ",
+                "stran": "86",
+                "leto_izida": "2013",
+                "zalozba": "Mladinska knjiga"
+            }
+        },
+        {
+            "besedilo": "Ljudje? [...] Nikoli ne veš, kje bi jih našel. Veter jih podi pred seboj. Korenin nimajo, to je tisto.",
+            "avtor": [
+                "Antoine de Saint-Exupéry"
+            ],
+            "tema": [
+                "èlovek"
+            ],
+            "kljucne_besede": [
+                "èlovek",
+                "korenine",
+                "veter"
+            ],
+            "knjiga": {
+                "naslov": "Mali Princ",
+                "stran": "74",
+                "leto_izida": "2013",
+                "zalozba": "Mladinska knjiga"
+            }
+        },
+        {
+            "besedilo": "Ah, èarobnost doma ni v tem, da nas varuje in greje, niti v tem, da smo lastniki zidov. Pomemben je zato, ker se poèasi polni z zalogami sreèe, ker v globini našega srca ustvari temno gmoto, iz katere kakor potoki izvirajo sanje.",
+            "avtor": [
+                "Antoine de Saint-Exupéry"
+            ],
+            "tema": [
+                "dom",
+                "sanje"
+            ],
+            "kljucne_besede": [
+                "dom",
+                "sanje",
+                "èarobnost",
+                "sreèa"
+            ],
+            "knjiga": {
+                "naslov": "Veter, pesek in zvezde",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Otrok te prime za roko, da bi te uèil.",
+            "avtor": [
+                "Antoine de Saint-Exupéry"
+            ],
+            "tema": [
+                "življenje",
+                "rast",
+                "uèenje",
+                "otroštvo"
+            ],
+            "kljucne_besede": [
+                "otrok",
+                "roka",
+                "uèiti",
+                "življenje"
+            ],
+            "knjiga": {
+                "naslov": "Citadela",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Kaj pomeni dati življenje za svoje prijatelje? Braniti in obogatiti ga s svojim. Kako? S svojim èasom. [...] Žrtev je v resnici to, kar ta beseda v latinšèini pomeni: sacrificium - delati stvari svete, posveèevati.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "življenje",
+                "dati"
+            ],
+            "kljucne_besede": [
+                "posveèevati",
+                "življenje",
+                "èas",
+                "žrtev"
+            ],
+            "knjiga": {
+                "naslov": "Kar ni pekel",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Kdo smo, Harry, veliko jasneje od naših sposobnosti pokažejo naše odloèitve.",
+            "avtor": [
+                "J. K. Rowling"
+            ],
+            "tema": [
+                "odloèitev"
+            ],
+            "kljucne_besede": [
+                "odloèitev"
+            ],
+            "knjiga": {
+                "naslov": "Harry Potter",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Odprl si mi prostor med srcem in glavo.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "srce"
+            ],
+            "kljucne_besede": [
+                "srce"
+            ],
+            "knjiga": {
+                "naslov": "Kar ni pekel",
+                "stran": "305",
+                "leto_izida": "2016",
+                "zalozba": "Družina"
+            }
+        },
+        {
+            "besedilo": "takšen je recept za življenje\r\nje dejala moja mati\r\nko me je objemala vso objokano\r\npomisli na rože ki jih vsako leto\r\nzasadiš na vrtu\r\nnauèile te bodo\r\nda morajo tudi ljudje\r\noveneti\r\npasti\r\nkoreniniti\r\nbrsteti\r\nda lahko spet zacvetijo",
+            "avtor": [
+                "Rupi Kaur"
+            ],
+            "tema": [
+                "življenje"
+            ],
+            "kljucne_besede": [
+                "vrt",
+                "rože",
+                "cveteti",
+                "življene",
+                "recept"
+            ],
+            "knjiga": {
+                "naslov": "sonce in njeno cvetje",
+                "stran": "114",
+                "leto_izida": "2018",
+                "zalozba": "Mladinska knjiga"
+            }
+        },
+        {
+            "besedilo": "Da, zdi se mi, da mali narodi bolj ali vsaj drugaèe ljubimo svojo domovino, kakor jo ljubijo veliki. Majhna je ... in ker ne moremo opevati njene prostranosti, opevamo in povelièujemo njene kotièke, ki pa so polni lepote, kajti lepota je podobna resnici; resnica ne potrebuje debele knjige, da se nam razjasni, lepota ne širnega in brezmejnega prostora, da se razmahne, razbohoti in razcvete. Naj prostranost bobni in poje svojo mogoèno pesem, resnièna lepota tiho žari. Svojo domovino poznamo, kakor poznamo obraz svoje matere: domaèe so nam vse njene gube in gubice, poteze veselja in sreèe, brazde bridkosti in skrbi. Nenehno èutimo objem njenih kmeèko raskavih, a sreèno dobrih in toplih rok, stiskamo se k njej in jo branimo že tisoè let, branimo jo najveèkrat preprosto, kar z golimi rokami, toda branimo jo uspešno, kajti prvi porok zmage je besna zaljubljenost, ki ne presoja in se zato tudi ne umika pred sovražnikovo premoèjo. Da, najprej je potrebna ljubezen, ki je vsako uro pripravljena dvigniti roko v bran, nato šele prideta do veljave razsodna misel in orožje.",
+            "avtor": [
+                "Ciril Kosmaè"
+            ],
+            "tema": [
+                "domovina",
+                "lepota"
+            ],
+            "kljucne_besede": [
+                "domovina",
+                "lepota",
+                "resnica"
+            ],
+            "knjiga": {
+                "naslov": "Pomladni dan",
+                "stran": null,
+                "leto_izida": "2017",
+                "zalozba": "Mladinska knjiga"
+            }
+        },
+        {
+            "besedilo": "[...] ona pa mu šari po srcu, po zmešnjavi stvari, v kateri rastejo sanje. Stvari, ki jih osvetli premoèna svetloba, oddajajo prav toliko sence. Vsaka svetloba ima svojo senco, vsako pristanišèe svojega brodolomca. Vendar fantje sence ne vidijo, raje se pretvarjajo, da je ni. [...] Življenje se mu zdi podobno enaèbam v uèbeniku za matematiko, ki imajo rešitve napisane v oklepaju spodaj desno. Lahko si jih prebere, vendar mu postopek reševanja nikoli ne uspe; glavo si razbija s tem, da je minus in minus skupaj plus, minus in plus pa minus. Vedno je v sredini minus. [...] Nima klobèièa, da bi ga odmotaval, da se ne bi izgubil v hodnikih svojih strahov. Kaj pa fantje vedo o tem, kako postati moški? Fantje od življenja vedno prièakujejo veselje. Ne vedo, da življenje prièakuje veselje od njih. Rad bi imel preprosto življenje, vendar življenje ni bilo nikoli preprosto. [...] Mladenièi še ne vedo, koliko boleèine je potrebno za postajanje in koliko poguma je potrebno za odpovedovanje utvaram. Mladi fant o tem ve še manj kot drugi; okoli njegovih sanj je le malo mesa. [...] Gleda svoje roke. Bile so premajhne za te naloge. Ne ve niti, kaj hoèe, kaj šele da bi bil sposoben odloèati in prevzemati odgovornost za svoje napake. [...] Vèasih se mu dozdeva, da je èlovek še najbolj pogumen kot otrok, potem pa mora postati kot èeri, da lahko vzdrži valove življenja. Kdor ljubi, najde pot. Toda ljubiti je stvar moških. V življenju se uèimo vseh mogoèih stvari. Nauèijo nas vsega. Ljubezni pa, ki je najpomembnejša stvar, nas ne nauèi nihèe. In vendar, èe se tega ne nauèiš, ostaneš nepismen življenja.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "življenje",
+                "mladost",
+                "ljubezen"
+            ],
+            "kljucne_besede": [
+                "rast",
+                "mladost",
+                "ljubezen"
+            ],
+            "knjiga": {
+                "naslov": "Kar ni pekel",
+                "stran": "9",
+                "leto_izida": "2016",
+                "zalozba": "Družina"
+            }
+        },
+        {
+            "besedilo": "Lahko bi hodil brez roke, brez oèesa, da, celo brez nosa bi se dalo živeti ... A kadar èlovek nima preprièanja, tedaj je samo še senca brez telesa, knjiga brez vsebine.",
+            "avtor": [
+                "Ivan Cankar"
+            ],
+            "tema": [
+                "življenje"
+            ],
+            "kljucne_besede": [
+                "preprièanje",
+                "vera",
+                "odloèitev"
+            ],
+            "knjiga": {
+                "naslov": "Srce ne pozna malenkosti",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Ko na cesti vidiš nekoga, ki se spotakne in pade, ti gre na smeh. Èe si daleè. Èe pa se približaš in vidiš, kako se obraz te osebe zvija od boleèine in se ne more pobrati, se prenehaš smejati in ti gre na jok. Prizor je isti, ti si isti, ženska ali moški je isti. To, kar je spremenjeno, je razdalja.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "soèutje",
+                "sojenje"
+            ],
+            "kljucne_besede": [
+                "padec",
+                "jok",
+                "razdalja"
+            ],
+            "knjiga": {
+                "naslov": "Kar ni pekel",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "V tem je velièina življenja. [...] Kdor išèe cilj, bo ostal prazen, ko ga bo dosegel, kdor pa najde pot, bo cilj vedno nosil v sebi.",
+            "avtor": [
+                "Nejc Zaplotnik"
+            ],
+            "tema": [
+                "pot",
+                "življenje"
+            ],
+            "kljucne_besede": [
+                "cilj",
+                "pot"
+            ],
+            "knjiga": {
+                "naslov": "Pot",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Skušajte zapustiti ta svet za spoznanje boljši, kakor ste ga prejeli.",
+            "avtor": [
+                "Robert Baden-Powell"
+            ],
+            "tema": [
+                "svet"
+            ],
+            "kljucne_besede": [
+                "bolje",
+                "svet"
+            ],
+            "knjiga": {
+                "naslov": "Popotovanje k sreèi ",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Veš kaj mi je še povedal hamal, Jakob? ‚Najveèja uganka lesa ni, da gori, temveè da plava na vodi.",
+            "avtor": [
+                "Anne Michaels"
+            ],
+            "tema": [
+                "bistvo"
+            ],
+            "kljucne_besede": [
+                "les",
+                "voda",
+                "ogenj"
+            ],
+            "knjiga": {
+                "naslov": "Ubežni delci",
+                "stran": "33",
+                "leto_izida": "2017",
+                "zalozba": "Modrijan"
+            }
+        },
+        {
+            "besedilo": "‘Kaj je èlovek,‘ je dejal Athos, ‚ki nima pokrajine? Niè drugega kakor odsevanje in plimovanje.‘",
+            "avtor": [
+                "Anne Michaels"
+            ],
+            "tema": [
+                "èlovek",
+                "domovina"
+            ],
+            "kljucne_besede": [
+                "èlovek",
+                "dom"
+            ],
+            "knjiga": {
+                "naslov": "Ubežni delci",
+                "stran": "84",
+                "leto_izida": "2017",
+                "zalozba": "Modrijan"
+            }
+        },
+        {
+            "besedilo": "Tišina: odgovor tako na praznoto kakor na polnost.",
+            "avtor": [
+                "Anne Michaels"
+            ],
+            "tema": [
+                "tišina"
+            ],
+            "kljucne_besede": [
+                "tišina",
+                "polnost",
+                "praznota"
+            ],
+            "knjiga": {
+                "naslov": "Ubežni delci",
+                "stran": "17",
+                "leto_izida": "2017",
+                "zalozba": "Modrijan"
+            }
+        },
+        {
+            "besedilo": "Vidim, da moram dati, kar najbolj potrebujem.",
+            "avtor": [
+                "Anne Michaels"
+            ],
+            "tema": [
+                "življenje",
+                "sreèa"
+            ],
+            "kljucne_besede": [
+                "dati"
+            ],
+            "knjiga": {
+                "naslov": "Ubežni delci",
+                "stran": "265",
+                "leto_izida": "2017",
+                "zalozba": "Modrijan"
+            }
+        },
+        {
+            "besedilo": "Prave sanje se gradi prek ovir. Drugaèe se ne spremenijo v naèrte, temveè ostanejo sanje. Sanje niso že narejene, razodevajo se korak za korakom, mogoèe celo drugaèe, kot smo jih sanjali. Sanje naredijo iz ljudi to, kar so. Delajo jih velike.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "ljudje",
+                "življenje"
+            ],
+            "kljucne_besede": [
+                "sanje",
+                "naèrt",
+                "ljudje"
+            ],
+            "knjiga": {
+                "naslov": "Bela kot mleko, rdeèa kot kri",
+                "stran": null,
+                "leto_izida": null,
+                "zalozba": null
+            }
+        },
+        {
+            "besedilo": "Ta doba klavrnih strasti, kot je nekdo poimenoval naš èas, pijan površinskih èustev, a žejen globokih ljubezni, je brezkrvna in izmozgana, ker pogreša ciljnost, to je stanje duha, ko vzamemo v roke svoje življenje, kakšno je, in poskrbimo, da se razcveti; ko tisto, kar se nam je zgodilo, spremenimo v izbiro, tisto, kar nam je bilo dano, v željo, tisto, kar imamo, pa v strast; ko vemo, kam gremo, ker nas na poti, ki jo ubiramo, žene cilj.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "življenje",
+                "cilj",
+                "brezciljnost"
+            ],
+            "kljucne_besede": [
+                "cilj",
+                "odložitev",
+                "življenje"
+            ],
+            "knjiga": {
+                "naslov": "Umetnost krhkosti",
+                "stran": "10",
+                "leto_izida": "2018",
+                "zalozba": "Družina"
+            }
+        },
+        {
+            "besedilo": "Ogenj, ki naj zaneti strast do življenja, ne more biti šibkejši od zvezde, zato pa si si predstavljal dom, zasidran med zvezdami, in so te zvezde spremljale od prvega do zadnjega verza. Zdijo se prispodobe, gole besede, podobe sanjaèa; a danes, po letih pouèevanja, vem, da so resnica.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "resnica"
+            ],
+            "kljucne_besede": [
+                "zvezde",
+                "resnica"
+            ],
+            "knjiga": {
+                "naslov": "Umetnost krhkosti",
+                "stran": "23",
+                "leto_izida": "2018",
+                "zalozba": "Družina"
+            }
+        },
+        {
+            "besedilo": "Zaupaj nam skrivnost neba, na katerem zvezde sijejo tristo petinšestdeset dni na leto - skrivnost življenja, ki se oklepa prihodnosti. Èe seme ne \"upa\" v svetlobo, ne požene korenin; vendar je upati težko, kajti upanje zahteva samozavedanje, odprtost in premnoge neuspehe. Upanje ni razvada optimistov, temveè kleni realizem krhkega semena, ki sprejema mrak podzemlja, da bi se razraslo v gozd.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "upanje"
+            ],
+            "kljucne_besede": [
+                "seme",
+                "upanje",
+                "realizem",
+                "gozd"
+            ],
+            "knjiga": {
+                "naslov": "Umetnost krhkosti",
+                "stran": "24",
+                "leto_izida": "2018",
+                "zalozba": "Družina"
+            }
+        },
+        {
+            "besedilo": "[...] svet celijo tisti, ki ljubijo, kar poèno, ne glede na velièino njihovega dela. Njihovo življenje je en sam nenehen spev; izžarevajo svetlobo, ki ni njihova, dišavo, ki se širi okoli njih, ne da bi se tega zavedali.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "odloèitev"
+            ],
+            "kljucne_besede": [
+                "svet",
+                "celiti",
+                "delo"
+            ],
+            "knjiga": {
+                "naslov": "Umetnost krhkosti",
+                "stran": "201",
+                "leto_izida": "2018",
+                "zalozba": "Družina"
+            }
+        },
+        {
+            "besedilo": "To je tvoja zapušèina: vse dobro in lepo, ki si ga storil svetu, naj je stalo, kar je stalo. To je tvoja zgodba.\r\nDrugo je smetje.",
+            "avtor": [
+                "Alessandro D'Avenia"
+            ],
+            "tema": [
+                "življenje"
+            ],
+            "kljucne_besede": [
+                "življenje",
+                "zapušèina",
+                "dobro",
+                "podariti"
+            ],
+            "knjiga": {
+                "naslov": "Umetnost krhkosti",
+                "stran": "176",
+                "leto_izida": "2018",
+                "zalozba": "Družina"
+            }
+        }
+    ]
+}
