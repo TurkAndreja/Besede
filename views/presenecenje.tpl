@@ -6,7 +6,7 @@
         <p class = "subtitle"><em>"{{besedilo.besedilo}}"</em> <small>({{besedilo.avtor[0]}}
     
         %if besedilo.knjiga.naslov is not None:
-            , {{besedilo.knjiga.naslov}})</small></p>
+            , {{!besedilo.besedilo.replace("\r\n", "<br>")})</small></p>
         %else:
             )</small></p>
         %end
