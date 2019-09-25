@@ -43,7 +43,7 @@
     <div class="container is-fluid">
       <div class="notification">
         <br><em>"[...] ne potrebujem več besed - sider, pač pa besede - krmila, v katerih je skrit ves pogum za plovbo na odprto morje."</em> (Alessandro D'Avenia)</br>
-        <br><em>"[...] ta pa vedno verjame, da lahko prave besede v tišini spominov vedno hranijo lepoto slehernega vzgiba srca."</em> (A. T.) </br> 
+        <br><em>"[...] ta pa vedno verjame, da lahko prave besede v tišini spominov vedno hranijo lepoto slehernega vzgiba srca."</em> (A. Turk) </br> 
       </div>
     </div>
 </section>
